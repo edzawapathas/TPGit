@@ -23,6 +23,7 @@ int main(int argc, char** argv) {
     cout << "Bonjour" << endl;
     cout << "World" << endl;
     cout << "Pomme" << endl;
+    cout << "Test modif de lescaich" << endl;
     return 0;
 }
 
